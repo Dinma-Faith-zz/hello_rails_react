@@ -1,2 +1,2 @@
-module RootHelper # rubocop:todo Style/Documentation
+module RootHelper
 end

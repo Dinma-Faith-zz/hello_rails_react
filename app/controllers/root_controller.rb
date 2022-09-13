@@ -1,3 +1,3 @@
-class RootController < ApplicationController # rubocop:todo Style/Documentation
+class RootController < ApplicationController
   def index; end
 end
